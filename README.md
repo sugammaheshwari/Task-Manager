@@ -18,7 +18,7 @@ NOTE- first change your directory to the directory where you downloaded the proj
 
 # Screenshots
 
-
+Check the Screenshot folder to see the application running on local server 
 
 # Technologies used
 
