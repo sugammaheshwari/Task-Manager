@@ -4,7 +4,7 @@ A simple web application built using python and flask to keep track of daily to 
 The features of task manager include creating a task , deleting a task and updating a pre-exisiting task.
 
 
-# INSTRUCTIONS - Running the project 
+# Instruction - Running the project 
 
 First install and create vertual envirnment 
 guide : https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/
@@ -16,7 +16,8 @@ Run the project using the command 'FLASK_APP=app.py flask run'
 NOTE- first change your directory to the directory where you downloaded the project file(s) and then proceed with the instructions.
 
 
-# SCREEEN SHOTS
+# Screenshots
+
 
 
 # Technologies used
